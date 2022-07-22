@@ -96,7 +96,7 @@ sudo systemctl enable httpd
 
 ```
 sudo yum install -y git
-git clone https://github.com/kodekloudhub/learning-app-ecommerce.git /var/www/html/
+git clone https://github.com/kedarvoggu/Ecommerce-using-devops-basic.git /var/www/html/
 ```
 
 5. Update index.php
